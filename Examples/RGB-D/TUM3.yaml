@@ -68,3 +68,8 @@ Viewer.ViewpointY: -0.7
 Viewer.ViewpointZ: -1.8
 Viewer.ViewpointF: 500.0
 
+# System.SaveAtlasToFile (string) [OPTIONAL]: destination file to save the map generated.
+System.SaveAtlasToFile: "map.osa"
+
+# System.LoadAtlasFromFile (string) [OPTIONAL]: file path where the map to load is located.
+# System.LoadAtlasFromFile: "map.osa"
